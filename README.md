@@ -53,7 +53,7 @@
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-[Online version link](https://maryam0007.github.io/maryam007.github.io/)
+[Online version link](https://maryam0007.github.io/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
